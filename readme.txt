@@ -10,3 +10,8 @@ My stupid boss still prefer svn.
 
 
 creating a new branch is quick.
+
+
+add in feature1 branch.
+
+add in master branch.
