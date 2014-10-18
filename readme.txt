@@ -15,3 +15,5 @@ creating a new branch is quick.
 add in feature1 branch.
 
 add in master branch.
+
+add in master branch2.
