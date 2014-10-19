@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 add in branch dev, for branch test.
+=======
+add in branch dev, for branch test.
+
+add in feature1.
+
+add in stash.
+>>>>>>> Stashed changes
